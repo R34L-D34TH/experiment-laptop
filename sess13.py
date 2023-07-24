@@ -22,7 +22,7 @@ class main:
 
 #Database Connectivity 
     connection = db.connect(user='MCA', 
-                            password='BlueSnake', 
+                            password='123456789', 
                             host='127.0.0.1', 
                             database='test')
 
